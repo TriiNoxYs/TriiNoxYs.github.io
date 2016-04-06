@@ -56,8 +56,8 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(-90deg, #62177D, #333333); }
+  background-color: ##4C1F68;
+  background-image: linear-gradient(-90deg, #56177D, #333333); }
   /* background-image: linear-gradient(-90deg, #8700B8, #333333); } */
 
 @media screen and (min-width: 64em) {
@@ -112,8 +112,9 @@ a {
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
-  font-weight: normal;
-  color: #159957; }
+  font-weight: bold;
+  color: #000000;
+  text-align: center; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
