@@ -54,12 +54,20 @@ Aenean a ex non nisi porttitor tristique sed vel nisl. Suspendisse potenti. Maur
 			    }, 500);
 			    return false;
 			});*/
+
+      /*
       var $root = $('html, body');
       $('a').click(function() {
           $root.animate({
               scrollTop: $( $.attr(this, 'href') ).offset().top
           }, 500);
           return false;
+      });
+      */
+
+      $('a[href*=#]').on('click', function(event){     
+        event.preventDefault();
+        $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
       });
 		</script>
 
