@@ -254,9 +254,10 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
-#container {
-  margin: 20px;
-  width: 200px;
-  height: 200px;
-  position: relative;
+.progress {
+  height: 300px;
+}
+.progress > svg {
+   height: 100%;
+  display: block;
 }

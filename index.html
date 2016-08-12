@@ -2,11 +2,14 @@
 <html lang="en-us">
     <head>
 	    <meta charset="UTF-8">
-	    <title>TriiNoxYs' Website</title>
 	    <meta name="viewport" content="width=device-width, initial-scale=1">     
+	    <title>TriiNoxYs' Website</title>
+	    
 	    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
 	    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,700'>
+	    
 	    <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
+	    <script type="text/javascript" src="js/progressbar.js"></script>
     </head>
 
     <body>
@@ -50,9 +53,42 @@
 				</ul>
 	        </p>
 
-	        CIRCLE A LA MANO 8
-	        
-	        
+	        <!-- Script circle percentage -->
+	        <div class="progress" id="progress">
+		        <script>window.onload = function onLoad() {
+				    var bar = new ProgressBar.Circle('#progress', {
+				    	color: '#aaa',
+				    	strokeWidth: 4,
+				    	trailWidth: 1,
+				    	easing: 'easeInOut',
+				    	duration: 1400,
+				    	text: {
+				      	autoStyleContainer: true
+				    	},
+				    	from: { 
+				    		color: '#aaa',
+				    		width: 1
+				    	},
+				    	to: { 
+				    		color: '#56177D', 
+				    		width: 4
+				    	},
+				   	 	step: function(state, circle) {
+				      		circle.path.setAttribute('stroke', state.color);
+				      		circle.path.setAttribute('stroke-width', state.width);
+
+				      	var value = Math.round(circle.value() * 100);
+				      	if(value === 0) circle.setText('');
+				      	else circle.setText(value +'%');
+				    }
+				  });
+				  bar.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
+				  bar.text.style.fontSize = '2rem';
+
+				  bar.animate(0.5);
+				};
+				</script>
+	        </div>
 
 	        <footer class="site-footer">
 	            <span class="site-footer-owner">Site maintained by <a href="https://github.com/TriiNoxYs">TriiNoxYs</a>.</span>
