@@ -6,3 +6,4 @@ window.onload = function onLoad() {
     });
 
     circle.animate(1);
+};
