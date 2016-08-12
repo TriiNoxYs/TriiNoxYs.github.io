@@ -1,5 +1,5 @@
 window.onload = function onLoad() {
-    var bar = new ProgressBar.Circle('#progress', {
+    var bar = new ProgressBar.Circle('progress', {
   color: '#aaa',
   // This has to be the same size as the maximum width to
   // prevent clipping
