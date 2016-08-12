@@ -1,5 +1,5 @@
 window.onload = function onLoad() {
-	var bar = new ProgressBar.Circle(container, {
+    var bar = new ProgressBar.Circle('#progress', {
 	  color: '#aaa',
 	  strokeWidth: 4,
 	  trailWidth: 1,
