@@ -28,6 +28,10 @@ a {
   .btn + .btn {
     margin-left: 1rem; }
 
+.project-link {
+  color:#56177D;
+  font-weight: bold; }
+
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
