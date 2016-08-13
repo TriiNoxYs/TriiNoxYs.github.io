@@ -4,7 +4,7 @@ function drawcircle(val) {
 			color: '#aaa',
 			strokeWidth: 4,
 			trailWidth: 1,
-			easing: 'easeInOut',
+			easing: 'bounce',
 			duration: 1400,
 			text: {
 			autoStyleContainer: true
