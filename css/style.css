@@ -1,4 +1,15 @@
+.main-content {
+  box-sizing: border-box; }
 
+.test {
+  margin-top: 0;
+  margin-top: -2rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+
+}
 
 body {
   padding: 0;
@@ -274,11 +285,11 @@ a {
 
 .progressbar {
   height: 300px;
-  display:inline-block; 
+  display: inline-block; 
 }
 .progressbar > svg {
   height: 100%;
-  display: block;
+  display: inline-block;
 }
 
 /*------------ Custom ------------*/

@@ -2,7 +2,7 @@ function drawcircle(val, container){
     /*window.onload = function onLoad() {*/
 		var bar = new ProgressBar.Circle(container, {
 			color: '#56177D',
-			strokeWidth: 35,
+			strokeWidth: 45,
 			trailWidth: 3,
 			easing: 'easeInOut',
 			duration: 1500,
