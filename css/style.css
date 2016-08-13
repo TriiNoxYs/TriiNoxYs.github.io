@@ -283,6 +283,21 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
+
+/*------------ Custom ------------*/
+.effect-distressed {
+  -webkit-mask-image: url(//themes.googleusercontent.com/static/patterns/distress-light.png);
+}
+
+.progressbar-content {
+  margin-top: 0;
+  margin-top: -2rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+}
+
 .progressbar {
   height: 300px;
   display: inline-block; 
@@ -290,11 +305,6 @@ a {
 .progressbar > svg {
   height: 100%;
   display: inline-block;
-}
-
-/*------------ Custom ------------*/
-.effect-distressed {
-  -webkit-mask-image: url(//themes.googleusercontent.com/static/patterns/distress-light.png);
 }
 
 #skills h4{
