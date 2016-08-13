@@ -22,7 +22,7 @@ function drawcircle(val, container){
 				width: 1
 			},
 			to: { 
-				color: '#56177D', 
+				color: '#56177D',
 				width: 3
 			},
 			step: function(state, circle) {
