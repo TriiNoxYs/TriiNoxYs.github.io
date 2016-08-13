@@ -1,6 +1,6 @@
-function drawcircle(val){
+function drawcircle(val, container){
     window.onload = function onLoad() {
-		var bar = new ProgressBar.Circle('#progress', {
+		var bar = new ProgressBar.Circle(container, {
 			color: '#aaa',
 			strokeWidth: 4,
 			trailWidth: 1,
