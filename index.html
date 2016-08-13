@@ -10,6 +10,7 @@
 	    
 	    <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
 	    <script type="text/javascript" src="js/progressbar.js"></script>
+	    <script type="text/javascript" src="js/circle.js"></script>
     </head>
 
     <body>
@@ -53,47 +54,24 @@
 				</ul>
 	        </p>
 
+	    </section>
+
+	    <section class="main-content">
+	  		<h3>My <span style="color:#56177D;">skills</span></h3>
+
 	        <!-- Script circle percentage -->
 	        <div class="progress" id="progress">
-		        <script>window.onload = function onLoad() {
-				    var bar = new ProgressBar.Circle('#progress', {
-				    	color: '#aaa',
-				    	strokeWidth: 4,
-				    	trailWidth: 1,
-				    	easing: 'easeInOut',
-				    	duration: 1400,
-				    	text: {
-				      	autoStyleContainer: true
-				    	},
-				    	from: { 
-				    		color: '#aaa',
-				    		width: 1
-				    	},
-				    	to: { 
-				    		color: '#56177D', 
-				    		width: 4
-				    	},
-				   	 	step: function(state, circle) {
-				      		circle.path.setAttribute('stroke', state.color);
-				      		circle.path.setAttribute('stroke-width', state.width);
+		        <script src="js/circle-java.js"></script>
+	        </div>
 
-				      	var value = Math.round(circle.value() * 100);
-				      	if(value === 0) circle.setText('');
-				      	else circle.setText(value +'%');
-				    }
-				  });
-				  bar.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
-				  bar.text.style.fontSize = '2rem';
-
-				  bar.animate(0.5);
-				};
-				</script>
+	        <div class="progress" id="progress">
+		        <script>circle(0.50)</script>
 	        </div>
 
 	        <footer class="site-footer">
 	            <span class="site-footer-owner">Site maintained by <a href="https://github.com/TriiNoxYs">TriiNoxYs</a>.</span>
 	         </footer>
-	    </section>
+		</section>
 
 	    <script type="text/javascript">
 	      /*Scroll when click on a anchor, without changing URL to site.com/#anchor */
