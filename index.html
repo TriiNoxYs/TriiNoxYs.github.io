@@ -6,13 +6,12 @@
 	    <title>TriiNoxYs' Website</title>
 	    <link rel="shortcut icon" href="images/favicon.png">
 	    
-	    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+	    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
 	    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,700'>
 	    
 	    <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
 	    <script type="text/javascript" src="js/progressbar.js"></script>
 	    <script type="text/javascript" src="js/circle.js"></script>
-	    <script type="text/javascript" src="js/circle2.js"></script>
     </head>
 
     <body>
@@ -55,23 +54,35 @@
 	  				<li>All my others projects are private, maybe I'll put them open-source later :)</li>
 				</ul>
 	        </p>
-
 	    </section>
 
 	    <section class="main-content" id="skills">
-	  		<h3>My <span style="color:#56177D;">skills</span></h3>
-
-	        <!-- Script circle percentage -->
-	        <div class="progress" id="pb-java">
+	  		<h3>My <span class="title-purple">skills</span></h3>
+	        
+	        <!-- Progressbar Java -->
+	        <div class="progress" id="pb-java" style="position: relative;">
 		        <script>
-		        	drawcircle(0.50, "#pb-java")
+		        	drawcircle(0.5, "#pb-java")
 		        </script>
-		        <p align="center">Java</p>
+				<h4>Java</h4>
+	        </div>
+	        
+	        <!-- Progressbar HTML/CSS/PHP -->
+	        <div class="progress" id="pb-html-css-php" style="position: relative;">
+		        <script>
+		        	drawcircle(0.20, "#pb-html-css-php")
+		        </script>
+				<h4>HTML5, CSS3, PHP7</h4>
 	        </div>
 
-	        <footer class="site-footer">
-	            <span class="site-footer-owner">Site maintained by <a href="https://github.com/TriiNoxYs">TriiNoxYs</a>.</span>
-	         </footer>
+	        <!-- Progressbar MySQL -->
+	        <div class="progress" id="pb-mysql" style="position: relative;">
+		        <script>
+		        	drawcircle(0.30, "#pb-mysql")
+		        </script>
+				<h4>MySQL</h4>
+	        </div>
+	        
 		</section>
 
 	    <script type="text/javascript">
