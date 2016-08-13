@@ -11,7 +11,7 @@ function drawcircle(val, container){
 				style: {
 		            color: '#AAAAAA',
 		            position: 'absolute',
-		            left: '46%',
+		            left: '42%',
 		            top: '42%',
 		            padding: 0,
 		            margin: 0
