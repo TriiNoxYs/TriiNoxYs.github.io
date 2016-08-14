@@ -28,10 +28,6 @@ a {
   .btn + .btn {
     margin-left: 1rem; }
 
-.project-link {
-  color:#56177D;
-  font-weight: bold; }
-
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
@@ -183,7 +179,8 @@ a {
   content: normal; }
 
 .main-content ul, .main-content ol {
-  margin-top: 0; }
+  margin-top: 2rem;
+  margin-bottom: 3rem; }
 
 .main-content blockquote {
   padding: 0 1rem;
@@ -278,6 +275,10 @@ a {
 .effect-distressed {
   -webkit-mask-image: url(//themes.googleusercontent.com/static/patterns/distress-light.png);
 }
+
+.project-link {
+  color:#56177D;
+  font-weight: bold; }
 
 .progressbar-content {
   margin-top: -2rem;
