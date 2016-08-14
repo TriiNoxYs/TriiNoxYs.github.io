@@ -1,6 +1,6 @@
 # My website (triinoxys.github.io)
-A simple website used to present me and my projects and to lurn web coding.
-You to talk about this ? It's on Gitter: [![Gitter](https://badges.gitter.im/triinoxysgithubio/triinoxysgithubio.svg)](https://gitter.im/triinoxysgithubio/triinoxysgithubio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+A simple website used to present me and my projects and to lurn web coding.  
+Want to talk about this ? It's on Gitter: [![Gitter](https://badges.gitter.im/triinoxysgithubio/triinoxysgithubio.svg)](https://gitter.im/triinoxysgithubio/triinoxysgithubio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Licence
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">triinoxys.github.io</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/TriiNoxYs/triinoxys.github.io" property="cc:attributionName" rel="cc:attributionURL">TriiNoxYs</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/TriiNoxYs/triinoxys.github.io" rel="dct:source">https://github.com/TriiNoxYs/triinoxys.github.io</a>.
