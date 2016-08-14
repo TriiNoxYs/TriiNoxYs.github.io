@@ -18,7 +18,7 @@ function drawcircle(val, container){
 	},
 	from: { 
 		color: '#56177D',
-		width: 1
+		width: 3
 	},
 	to: { 
 		color: '#56177D',
