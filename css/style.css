@@ -308,6 +308,6 @@ a {
   font-weight: bold;
 }
 
-.title-purple {
+.main-content h3 span, .progressbar-content h3 span{
   color:#56177D;
 }

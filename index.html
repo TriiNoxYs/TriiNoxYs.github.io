@@ -27,7 +27,7 @@
 	        <a href="#contact" class="btn">Contact</a>
 		</section>
 		<section class="main-content">
-	  		<h3>About <span style="color:#56177D;">Me</span></h3>
+	  		<h3>About <span>Me</span></h3>
 
 	        <p>I'm a 15 years old French developper. I mostly develop with Java on Eclipse but also in C++ and others languages and I know bases of HTML/CSS/PHP/JS but I prefer developing apps/software/etc instead of websites/webapps/etc. And finally, I'm a Linux lover <3. (But I also use Windows, especially for gaming.)</p>
 	        <p>I create some basic apps, some mini-games and also some Bukkit/Spigot plugins (for Minecraft).</p>
@@ -35,7 +35,7 @@
 		</section>
 
 		<section class="main-content" id="projects">
-	  		<h3>My <span style="color:#56177D;">projects</span></h3>
+	  		<h3>My <span>projects</span></h3>
 
 	        <p>
 				<ul style="list-style-type:disc">
@@ -59,7 +59,7 @@
 	    </section>
 
 	    <section class="progressbar-content" id="skills">
-	  		<h3>My <span class="title-purple">skills</span></h3>
+	  		<h3>My <span>skills</span></h3>
 	        
 	        <!-- Progressbar Java -->
 	        <div class="progressbar" id="pb-java">
@@ -132,14 +132,24 @@
 
 		</section>
 
+		<section class="main-content" id="contact">
+			<h3>Contact <span>me</span></h3>
+			<form action="./" method="POST">
+				<div> <input type="text" placeholder="Votre nom" required="required" id="name" name="name"> </div>
+				<div> <input type="text" placeholder="Votre e-mail (pour vous répondre)" required="required" id="email" name="email"> </div>
+				<div> <textarea placeholder="Votre message" required="required" id="message" name="message" style="margin-top: 0px; margin-bottom: 16px; height: 168px;"></textarea> </div>
+			    <button type="submit">ENVOYER</button>
+			 </form>
+		</section>
+
 		<section class="main-content">
 			<footer class="site-footer">
   	            Site maintained by <a href="https://github.com/TriiNoxYs">TriiNoxYs</a>.
   	         </footer>
 		</section>
 
+
 	    <script type="text/javascript">
-	      /*Scroll when click on a anchor, without changing URL to site.com/#anchor */
 	      var $root = $('html, body');
 	      $('a').click(function() {
 	          $root.animate({
