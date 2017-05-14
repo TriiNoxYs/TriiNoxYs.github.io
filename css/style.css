@@ -1,6 +1,11 @@
 .main-content {
   box-sizing: border-box; }
 
+p.contact
+{
+	text-align: center;
+}
+
 html
 {
 	-webkit-touch-callout: none;
