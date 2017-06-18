@@ -16,21 +16,19 @@
 	    <meta name="description" content="TriiNoxYs's Website">
 	    <meta name="keywords" content="Java, C, C++, HTML, CSS, PHP, Python, JavaScript, Programming, Developing, Programmation, Developpement, Minecraft, Bukkit, Spigot, BungeeCord, Proxy, Redis, SQL, TriiNoxYs, DragonDistrict, SimpleGUIMaker, Code, Evenzia, HoneyHive">
 	    <meta name="author" content="TriiNoxYs">
-		
-		<meta http-equiv="refresh" content="0; url=https://triinoxys.fr/" />
 	    
 	    <title>TriiNoxYs - French Developer</title>
 
-	    <link rel="icon" href="favicon.ico" type="image/x-icon" /> 
-	    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+	    <link rel="icon" href="/favicon.ico" type="image/x-icon" /> 
+	    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	    
-	    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
+	    <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen">
 	    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,700'>
 	    
-	    <script type="text/javascript" src="js/jquery-1.12.3.js"></script>
-	    <script type="text/javascript" src="js/progressbar.js"></script>
-	    <script type="text/javascript" src="js/circle.js"></script>
-		<script type="text/javascript" src="js/jquery.appear.js"></script>
+	    <script type="text/javascript" src="/js/jquery-1.12.3.js"></script>
+	    <script type="text/javascript" src="/js/progressbar.js"></script>
+	    <script type="text/javascript" src="/js/circle.js"></script>
+		<script type="text/javascript" src="/js/jquery.appear.js"></script>
     </head>
 
     <body>
@@ -61,7 +59,7 @@
 					<li><a class="project-link" href="http://github.com/triinoxys/PartyBungee/" target="_blank">PartyBungee:</a> A BungeeCord plugin for creating group of players (parties) and play together.</li>
 	  				<li><a class="project-link" href="http://triinoxys.fr/SimpleGUIMaker/" target="_blank">SimpleGUIMaker:</a> A simple minecraft plugin that allow you to easily create GUI directly ingame.</li>
 	  				<li><a class="project-link" href="http://triinoxys.fr/FallenKingdom/" target="_blank">FallenKingdom:</a> A FallenKingdom plugin for minecraft that follows originals rules of the game.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/CallMe" target="_blank">CallMe:</a> A minecraft plugin to send calls, sms, etc to others players and create group calls.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/callme" target="_blank">CallMe:</a> A minecraft plugin to send calls, sms, etc to others players and create group calls.</li>
 	  				<li><a class="project-link" href="http://triinoxys.fr/SlackbotController/" target="_blank">Slackbot Controller:</a> A java app to send message as a bot to Slack. (Works with webhooks)</li>
 					<li><a class="project-link" href="http://triinoxys.fr/PyPac/" target="_blank">PyPac:</a> A verry simple pacman written in Python (made at school).</li>
 	  				<li><a class="project-link" href="http://triinoxys.fr/DDApi/" target="_blank">DDApi:</a> A BungeeCord <b>and</b> Spigot API used by all DDPlugins.</li>
@@ -167,6 +165,13 @@
   	         </footer>
 		</section>
 
+		<!--
+		<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
+    		<iframe frameborder="0" height="100%" width="100%" 
+    			src="https://youtube.com/embed/pPMWVShq-kI?autoplay=1&controls=0&showinfo=0&autohide=1">
+  			</iframe>
+		</div>
+		-->
 
 	    <script type="text/javascript">
 	      var $root = $('html, body');

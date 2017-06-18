@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/triinoxys
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://triinoxys.fr
+  * I am triinoxys (https://keybase.io/triinoxys) on keybase.
+  * I have a public key ASAIGEnb96PD4fpUC1fWAOUG27SN-9aBcXE5gX05HUxBqQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120081849dbf7a3c3e1fa540b57d600e506dbb48dfbd681717139817d391d4c41a90a",
+            "host": "keybase.io",
+            "kid": "0120081849dbf7a3c3e1fa540b57d600e506dbb48dfbd681717139817d391d4c41a90a",
+            "uid": "ae1b41d9987a44a08953ff932bf1cd19",
+            "username": "triinoxys"
+        },
+        "service": {
+            "hostname": "triinoxys.fr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1497520824,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1497520756,
+        "hash": "1756ac4d4e08163bb8bb7511f994230c9fafe853337e51335c059a8bb0c0997337a848d5ec084d28a43bd12c8fbb8c6e5f1b09462436a20ab9f5a0c3bf51b428",
+        "seqno": 1172081
+    },
+    "prev": "a11d29a510a10c4f6ca560c9d76cc894da098e65c83e70be7c0e3104cc07b031",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCBhJ2/ejw+H6VAtX1gDlBtu0jfvWgXFxOYF9OR1MQakKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDgxODQ5ZGJmN2EzYzNlMWZhNTQwYjU3ZDYwMGU1MDZkYmI0OGRmYmQ2ODE3MTcxMzk4MTdkMzkxZDRjNDFhOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDgxODQ5ZGJmN2EzYzNlMWZhNTQwYjU3ZDYwMGU1MDZkYmI0OGRmYmQ2ODE3MTcxMzk4MTdkMzkxZDRjNDFhOTBhIiwidWlkIjoiYWUxYjQxZDk5ODdhNDRhMDg5NTNmZjkzMmJmMWNkMTkiLCJ1c2VybmFtZSI6InRyaWlub3h5cyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidHJpaW5veHlzLmZyIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjMifSwiY3RpbWUiOjE0OTc1MjA4MjQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NzUyMDc1NiwiaGFzaCI6IjE3NTZhYzRkNGUwODE2M2JiOGJiNzUxMWY5OTQyMzBjOWZhZmU4NTMzMzdlNTEzMzVjMDU5YThiYjBjMDk5NzMzN2E4NDhkNWVjMDg0ZDI4YTQzYmQxMmM4ZmJiOGM2ZTVmMWIwOTQ2MjQzNmEyMGFiOWY1YTBjM2JmNTFiNDI4Iiwic2Vxbm8iOjExNzIwODF9LCJwcmV2IjoiYTExZDI5YTUxMGExMGM0ZjZjYTU2MGM5ZDc2Y2M4OTRkYTA5OGU2NWM4M2U3MGJlN2MwZTMxMDRjYzA3YjAzMSIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBt5wkkrf+lecIyYAlTTe3m1oGmh76rDXCMY95rMiLAlhDnqjfo9XMJSbO1ydrTb4uSk7UhqO1nZEIM3P3FAHwaoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBDcBpzIR+XNsS7RB3DIC6w9mxo3ywZtBIbKyBHJIMgp6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/triinoxys
+
+==================================================================
