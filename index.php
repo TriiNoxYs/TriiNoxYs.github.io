@@ -45,7 +45,8 @@
 		<section class="main-content">
 	  		<h3>About <span>Me</span></h3>
 
-	        <p>I'm a 16 years old French developer. I mostly develop with Java on Eclipse but also in C++ and others programming languages and I know bases of HTML/CSS/PHP/JS but I prefer developing apps/software/etc instead of websites/webapps/etc. And finally, I'm a Linux lover <3. (But I also use Windows, especially for gaming.)</p>
+	        <p>I'm a 16 years old French developer. I mostly develop with Java on Eclipse but also in C++ and others programming languages. I know bases of HTML/CSS/PHP/JS but I prefer developing apps/software/etc instead of websites/webapps/etc. I also like playing with system stuff like web servers, reverse proxies or databases.
+	        <br> Finally, I'm a Linux lover <3. (But I also use Windows, especially for gaming.)</p>
 	        <p>I create some basic apps, some mini-games and also some Bukkit/Spigot plugins (for Minecraft).</p>
 	        <p>You can see a list of the programming languages I know in the <a href="#skills">skills</a> section.</p>
 		</section>
