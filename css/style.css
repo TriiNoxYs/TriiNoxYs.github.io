@@ -1,12 +1,12 @@
 .img404 {
   width: 380px;
   height: 200px;
-  background: url("../img/404-normal.png") no-repeat;
+  background: url("/img/404-normal.png") no-repeat;
 }
 .img404:hover {
   width: 380px;
   height: 270px;
-  background: url("../img/404-broken.png") no-repeat;
+  background: url("/img/404-broken.png") no-repeat;
 }
 
 .main-content {
