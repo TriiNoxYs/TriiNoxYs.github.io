@@ -9,22 +9,22 @@
 		    window.location.protocol = "https";
 	    </script>
 	    -->
-	
-	    
+
+
 	    <meta charset="UTF-8">
-	    <meta name="viewport" content="width=device-width, initial-scale=1">     
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
 	    <meta name="description" content="TriiNoxYs's Website">
 	    <meta name="keywords" content="Java, C, C++, HTML, CSS, PHP, Python, JavaScript, Programming, Developing, Programmation, Developpement, Minecraft, Bukkit, Spigot, BungeeCord, Proxy, Redis, SQL, TriiNoxYs, DragonDistrict, SimpleGUIMaker, Code, Evenzia, HoneyHive">
 	    <meta name="author" content="TriiNoxYs">
-	    
+
 	    <title>TriiNoxYs - French Developer</title>
 
-	    <link rel="icon" href="/favicon.ico" type="image/x-icon" /> 
+	    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 	    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-	    
+
 	    <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen">
 	    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,700'>
-	    
+
 	    <script type="text/javascript" src="/js/jquery-1.12.3.js"></script>
 	    <script type="text/javascript" src="/js/progressbar.js"></script>
 	    <script type="text/javascript" src="/js/circle.js"></script>
@@ -36,7 +36,7 @@
 			<h1 class="user-name effect-distressed">TriiNoxYs</h1>
 			<!-- <h1> WIP, website not finished !!</h1> -->
 	        <h2 class="user-tagline">French Dev'</h2>
-	      
+
 	        <a href="https://github.com/TriiNoxYs" class="btn" target="_blank">GitHub</a>
 	        <a href="#projects" class="btn">Projects</a>
 	        <a href="#skills" class="btn">Skills</a>
@@ -56,22 +56,22 @@
 
 	        <p>
 				<ul style="list-style-type:disc">
-					<li><a class="project-link" href="http://github.com/triinoxys/triinoxys.github.io/" target="_blank">triinoxys.github.io:</a> The site you're watching.</li>
+					<li><a class="project-link" href="http://github.com/triinoxys/triinoxys.github.io" target="_blank">triinoxys.github.io:</a> The site you're watching.</li>
 					<li><a class="project-link" href="http://triinoxys.fr/partybungee" target="_blank">PartyBungee:</a> A BungeeCord plugin for creating group of players (parties) and play together.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/SimpleGUIMaker/" target="_blank">SimpleGUIMaker:</a> A simple minecraft plugin that allow you to easily create GUI directly ingame.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/FallenKingdom/" target="_blank">FallenKingdom:</a> A FallenKingdom plugin for minecraft that follows originals rules of the game.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/simpleguimaker" target="_blank">SimpleGUIMaker:</a> A simple minecraft plugin that allow you to easily create GUI directly ingame.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/fallenkingdo" target="_blank">FallenKingdom:</a> A FallenKingdom plugin for minecraft that follows originals rules of the game.</li>
 	  				<li><a class="project-link" href="http://triinoxys.fr/callme" target="_blank">CallMe:</a> A minecraft plugin to send calls, sms, etc to others players and create group calls.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/SlackbotController/" target="_blank">Slackbot Controller:</a> A java app to send message as a bot to Slack. (Works with webhooks)</li>
-					<li><a class="project-link" href="http://triinoxys.fr/PyPac/" target="_blank">PyPac:</a> A verry simple pacman written in Python (made at school).</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDApi/" target="_blank">DDApi:</a> A BungeeCord <b>and</b> Spigot API used by all DDPlugins.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDFriends/" target="_blank">DDFriends:</a> A BungeeCord plugin to add friends and parties, for DragonDistrict.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDHub/" target="_blank">DDHub:</a> A Spigot plugin to manage server hub, for DragonDistrict.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDJump/" target="_blank">DDJump:</a> A Spigot plugin to easily create a jump, for DragonDistrict.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDManager/" target="_blank">DDManager:</a> A BungeeCord plugin to manage a multi-server, for DragonDistrict.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDMod/" target="_blank">DDMod:</a> A BungeeCord plugin to moderate a mutli-server (ban, kick, etc), for DragonDistrict.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDRanks/" target="_blank">DDRanks:</a> A Spigot plugin to manage ranks, for DragonDistrict.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDRanksBungee/" target="_blank">DDRanksBungee:</a> An adaptation of DDRanks to work with Bungeecord, for DragonDistrict.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/DDSigns/" target="_blank">DDSigns:</a> A Spigot plugin to create server-signs, for DragonDistrict.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/slackbotcontroller" target="_blank">Slackbot Controller:</a> A java app to send message as a bot to Slack. (Works with webhooks)</li>
+					  <li><a class="project-link" href="http://triinoxys.fr/pypac" target="_blank">PyPac:</a> A verry simple pacman written in Python (made at school).</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddapi" target="_blank">DDApi:</a> A BungeeCord <b>and</b> Spigot API used by all DDPlugins.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddfriends" target="_blank">DDFriends:</a> A BungeeCord plugin to add friends and parties, for DragonDistrict.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddhub" target="_blank">DDHub:</a> A Spigot plugin to manage server hub, for DragonDistrict.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddjump" target="_blank">DDJump:</a> A Spigot plugin to easily create a jump, for DragonDistrict.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddmanager" target="_blank">DDManager:</a> A BungeeCord plugin to manage a multi-server, for DragonDistrict.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddmod" target="_blank">DDMod:</a> A BungeeCord plugin to moderate a mutli-server (ban, kick, etc), for DragonDistrict.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddranks" target="_blank">DDRanks:</a> A Spigot plugin to manage ranks, for DragonDistrict.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddranksbungee" target="_blank">DDRanksBungee:</a> An adaptation of DDRanks to work with Bungeecord, for DragonDistrict.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/ddsigns" target="_blank">DDSigns:</a> A Spigot plugin to create server-signs, for DragonDistrict.</li>
 	  				<li>All my others projects are private, maybe I'll put them open-source later :)</li>
 				</ul>
 	        </p>
@@ -79,7 +79,7 @@
 
 	    <section class="progressbar-content" id="skills">
 	  		<h3>My <span>skills</span></h3>
-	        
+
 	        <!-- Progressbar Java -->
 	        <div class="progressbar" id="pb-java">
 		        <script>
@@ -87,7 +87,7 @@
 		        </script>
 				<h4>Java</h4>
 	        </div>
-	        
+
 	        <!-- Progressbar HTML/CSS/PHP -->
 	        <div class="progressbar" id="pb-html-css-php">
 		        <script>
@@ -115,7 +115,7 @@
 		</section>
 
 		<section class="progressbar-content" id="skills">
-	        
+
 	        <!-- Progressbar C++ -->
 	        <div class="progressbar" id="pb-cplusplus">
 		        <script>
@@ -168,7 +168,7 @@
 
 		<!--
 		<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
-    		<iframe frameborder="0" height="100%" width="100%" 
+    		<iframe frameborder="0" height="100%" width="100%"
     			src="https://youtube.com/embed/pPMWVShq-kI?autoplay=1&controls=0&showinfo=0&autohide=1">
   			</iframe>
 		</div>
