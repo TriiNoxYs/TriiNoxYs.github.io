@@ -59,7 +59,7 @@
 					<li><a class="project-link" href="http://github.com/triinoxys/triinoxys.github.io" target="_blank">triinoxys.github.io:</a> The site you're watching.</li>
 					<li><a class="project-link" href="http://triinoxys.fr/partybungee" target="_blank">PartyBungee:</a> A BungeeCord plugin for creating group of players (parties) and play together.</li>
 	  				<li><a class="project-link" href="http://triinoxys.fr/simpleguimaker" target="_blank">SimpleGUIMaker:</a> A simple minecraft plugin that allow you to easily create GUI directly ingame.</li>
-	  				<li><a class="project-link" href="http://triinoxys.fr/fallenkingdo" target="_blank">FallenKingdom:</a> A FallenKingdom plugin for minecraft that follows originals rules of the game.</li>
+	  				<li><a class="project-link" href="http://triinoxys.fr/fallenkingdom" target="_blank">FallenKingdom:</a> A FallenKingdom plugin for minecraft that follows originals rules of the game.</li>
 	  				<li><a class="project-link" href="http://triinoxys.fr/callme" target="_blank">CallMe:</a> A minecraft plugin to send calls, sms, etc to others players and create group calls.</li>
 	  				<li><a class="project-link" href="http://triinoxys.fr/slackbotcontroller" target="_blank">Slackbot Controller:</a> A java app to send message as a bot to Slack. (Works with webhooks)</li>
 					  <li><a class="project-link" href="http://triinoxys.fr/pypac" target="_blank">PyPac:</a> A verry simple pacman written in Python (made at school).</li>
